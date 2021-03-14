@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NadavNavon
-- 👀 I’m interested in Data Analytics, Data Science, ML, and their implementation in smart cities projects.
+- 👀 I’m interested in Data Analytics, Data Science, ML, and their implementation in real life cases. 
 - 🌱 I’m currently learning Data Analysis and the basis of Machine Learning models, using Python as my mail tool.
 - 💞️ I’m looking to collaborate on any open source projects in this field in which I could assist.
 - 📫 How to reach me - navonadav@gmail.com
