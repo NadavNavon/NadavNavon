@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NadavNavon
 - 👀 I’m interested in Data Analytics, Data Science, ML, and their implementation in real life cases. 
-- 🌱 I’m currently learning Data Analysis and the basis of Machine Learning models, using python as a main tool.
-- 👀 I’m looking to collaborate on any open source projects in these fields. 
+- 🌱 I’m currently learning mainly advenced SQL quering. 
 - 📫 How to reach me - navonadav@gmail.com
 
 <!---
