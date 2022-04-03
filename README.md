@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NadavNavon
 - 👀 I’m interested in Data Analytics, Data Science, ML, and their implementation in real life cases. 
-- 🌱 I’m currently learning mainly advanced SQL quering. 
 - 📫 How to reach me - navonadav@gmail.com
 
 <!---
